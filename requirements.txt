@@ -1,0 +1,6 @@
+# Terminal Snake
+# Required only on Windows:
+windows-curses>=2.3.0; sys_platform == "win32"
+
+# For building standalone executables (optional):
+# pyinstaller>=6.0.0
